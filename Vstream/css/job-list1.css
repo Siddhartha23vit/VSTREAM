@@ -1,0 +1,13 @@
+body{
+    background-color: white;
+}
+p{
+    color: black;
+    font-size: var(--p-font-size);
+    font-weight: var(--font-weight-light);
+}
+span{
+    color: black;
+    font-size: var(--p-font-size);
+    font-weight: var(--font-weight-light);
+}
